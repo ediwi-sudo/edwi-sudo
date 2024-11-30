@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### :Titulo: Actividad
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
