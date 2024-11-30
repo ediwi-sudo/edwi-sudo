@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 ### :Titulo: Actividad
 <!--RECENT_ACTIVITY:start-->
-
-
 <!--RECENT_ACTIVITY:last_update-->
