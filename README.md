@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### :Titulo: Actividad
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
