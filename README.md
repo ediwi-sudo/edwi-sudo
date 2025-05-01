@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ### :Titulo: Actividad
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ediwi-sudo/retail-store-sample-app](https://github.com/ediwi-sudo/retail-store-sample-app) from [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app)
-2. ⭐ Starred [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app)
-3. 🔱 Forked [ediwi-sudo/cloudcamp-bootcamp-202501](https://github.com/ediwi-sudo/cloudcamp-bootcamp-202501) from [jthan24/cloudcamp-bootcamp-202501](https://github.com/jthan24/cloudcamp-bootcamp-202501)
-4. ⭐ Starred [vhgalvez/FlatcarMicroCloud](https://github.com/vhgalvez/FlatcarMicroCloud)
+1. 🔱 Forked [ediwi-sudo/terraform-examples](https://github.com/ediwi-sudo/terraform-examples) from [cloudcampla/terraform-examples](https://github.com/cloudcampla/terraform-examples)
+2. 🔱 Forked [ediwi-sudo/retail-store-sample-app](https://github.com/ediwi-sudo/retail-store-sample-app) from [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app)
+3. ⭐ Starred [aws-containers/retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app)
+4. 🔱 Forked [ediwi-sudo/cloudcamp-bootcamp-202501](https://github.com/ediwi-sudo/cloudcamp-bootcamp-202501) from [jthan24/cloudcamp-bootcamp-202501](https://github.com/jthan24/cloudcamp-bootcamp-202501)
 5. 💪 Opened PR [#1](https://github.com/ediwi-sudo/miTerceRepo/pull/1) in [ediwi-sudo/miTerceRepo](https://github.com/ediwi-sudo/miTerceRepo)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 1st, 2025, 4:54:57 AM
+Last Updated: Thursday, May 1st, 2025, 5:17:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
