@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ### :Titulo: Actividad
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [talleres-ew/courseTerraform](https://github.com/talleres-ew/courseTerraform)
-2. ⭐ Starred [roxsross/devops-static-web](https://github.com/roxsross/devops-static-web)
+1. 📔 Created new repository [ediwi-sudo/cloudcamp-kubernetes](https://github.com/ediwi-sudo/cloudcamp-kubernetes)
+2. 📔 Created new repository [talleres-ew/courseTerraform](https://github.com/talleres-ew/courseTerraform)
 3. ⭐ Starred [roxsross/90daysdevopsbyroxs](https://github.com/roxsross/90daysdevopsbyroxs)
 4. ⭐ Starred [flexomeno/Ansible-Camp](https://github.com/flexomeno/Ansible-Camp)
 5. 💪 Opened PR [#1](https://github.com/ediwi-sudo/miTerceRepo/pull/1) in [ediwi-sudo/miTerceRepo](https://github.com/ediwi-sudo/miTerceRepo)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 8th, 2025, 9:33:32 AM
+Last Updated: Tuesday, July 8th, 2025, 9:48:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
